@@ -8,7 +8,7 @@
 export const siteLinks = {
   github: 'https://github.com/yashh1202/nonetpay',
   whitepaper: 'https://xyx-1.gitbook.io/nonetpay',
-  androidApk: '',
+  androidApk: 'https://github.com/yashh1202/nonet-landing/releases/download/android/no-net-pay.apk',
   contact: 'mailto:yash549762@gmail.com',
 } as const
 
